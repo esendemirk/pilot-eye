@@ -1,18 +1,1 @@
-<!doctype html>
-<html>
-
-<head>
-    <title>Pilot Eye</title>
-</head>
-
-<body>
-
-    <div style="position: fixed; z-index: -99; width: 100%; height: 100%">
-        <iframe frameborder="0" height="100%" width="100%"
-            src="https://youtube.com/embed/q9Af1674wHQ?autoplay=1&controls=0&showinfo=0&autohide=1">
-        </iframe>
-    </div>
-    
-</body>
-
-</html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="propeller" content="6605aa4d3cf82c9e101fe500f3c9aed3"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><meta name="google-site-verification" content="68jvxJTL6IGOcoPLdkcAfe7cpeBcnOtDxjj8SZFhOQs"/><meta name="yandex-verification" content="afbe01f018b10db5"/><meta name="twitter:card" content="summary"/><meta name="twitter:site" content="@driveandlisten"/><meta name="twitter:title" content="Drive & Listen"/><meta name="twitter:description" content="Drive around cities while listening to their local radios"/><meta name="twitter:image" content="https://ph-files.imgix.net/76a102e0-4873-470d-b8ce-2e4b8addf160?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=304&h=190&fit=max&dpr=2"/><meta property="og:url" content="https://driveandlisten.herokuapp.com"/><meta property="og:title" content="Drive & Listen"/><meta property="og:description" content="Listen to local radio stations while driving through the cities around the world. Istanbul, Berlin, London, Paris, New York City and many more"/><meta property="og:image" content="https://ph-files.imgix.net/76a102e0-4873-470d-b8ce-2e4b8addf160?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=304&h=190&fit=max&dpr=2"/><meta name="description" content="Listen to local radio stations while driving through the cities around the world."/><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"/><title>Drive & Listen</title><link href="/static/css/main.68d5dc4d.css" rel="stylesheet"></head><body><div id="root"></div><script type="text/javascript" src="/static/js/main.e6f5b663.js"></script></body></html>
