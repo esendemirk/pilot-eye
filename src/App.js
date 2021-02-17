@@ -3,12 +3,28 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <video autoPlay loop muted id='video'>
-        <source src='https://vod-progressive.akamaized.net/exp=1613367022~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4305%2F17%2F446527892%2F1958634570.mp4~hmac=880a6ad2b5492258feb07ba12751726c5ae669c141b3eb10a1de921958701995/vimeo-prod-skyfire-std-us/01/4305/17/446527892/1958634570.mp4' type='video/mp4'/>
-      </video>
+    <div
+      className="video"
+      style={{
+        position: "relative",
+        paddingBottom: "56.25%" /* 16:9 */,
+        paddingTop: 25,
+        height: 0
+      }}
+    >
+      <iframe title="myVideo"
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%"
+        }}
+        src={`https://www.youtube.com/embed/Grz3zrrZ3SM`}
+        frameBorder="0"
+      />
     </div>
   );
-}
+};
 
 export default App;
