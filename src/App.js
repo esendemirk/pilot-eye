@@ -6,15 +6,13 @@ function App() {
     <div
       className="video"
       style={{
-        position: "relative",
-        paddingBottom: "56.25%" /* 16:9 */,
-        paddingTop: 25,
+        position: "fixed",
         height: 0
       }}
     >
       <iframe title="myVideo"
         style={{
-          position: "absolute",
+          position: "fixed",
           top: 0,
           left: 0,
           width: "100%",
